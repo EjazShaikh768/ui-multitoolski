@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+    <link rel="stylesheet" href="assets/BOOTSTRAP/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/CSS/style.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="container-fluid  shadow-none p-3 mb-5 bg-light rounded">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4 offset-sm-1">
+                    <img src="assets/IMAGES/MultiToolsKit -icon.png" alt="" srcset="">
+                </div>
+                <div class="col-lg-4  offset-sm-3 text-end">
+                    <nav class="navbar navbar-expand-lg bg-light">
+                        <div class="container-fluid">
+                            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"></span>
+                            </button>
+                            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                                    <li class="nav-item">
+                                        <a class="nav-link active" aria-current="page" href="#">HOME</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="#">CONTACT US</a>
+                                    </li>
+
+                                    <li class="nav-item">
+                                        <a class="nav-link ">LOGIN</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link ">SIGNUP</a>
+                                    </li>
+                                </ul>
+
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row justify-content-center">
+        <!-- <div class="col-lg-4 col-md-4 col-sm-12">
+                <div class="input-group mb-3 mt-5">
+                    <span class="input-group-text" id="basic-addon1" ><i class="fa-solid fa-magnifying-glass"></i></span>
+                    <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+                </div>
+            </div> -->
+            <div class="col-lg-10 col-md-10 col-sm-12">
+                <div class="row justify-content-center">
+                    <div class="col-sm-8">
+                    <div class="input-group mb-3">
+                    <span class="input-group-text" id="basic-addon1"><i class="fa-solid fa-magnifying-glass"></i></span>
+                    <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+                </div>
+                    </div>
+                </div>
+                <div class="row">
+
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                      <a href="">
+                      <img src="assets/IMAGES/domain_into_IP.png" alt="">
+                        <h6>Domain into IP</h6>
+                      </a>
+                      </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                       <a href="">
+                       <img src="assets/IMAGES/insta-tags.jpg" alt="" srcset="">
+                        <h6>Instagram Hashtags Generator</h6>
+                       </a>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                    <a href="">
+                    <img src="assets/IMAGES/ifsc-to-bank.png" alt="">
+                        <h6>IFSC Code to Bank Details</h6>
+                    </a>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                      <a href="">
+                      <img src="assets/IMAGES/u-tags.png" alt="">
+                        <h6>Youtube Tags Finder</h6>
+                      </a>
+                    </div>
+
+                    
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                     <a href="">
+                     <img src="assets/IMAGES/dummy-image-placeholder.png" alt="" srcset="">
+                        <h6>Dummy Image Placeholder Generator</h6>
+                     </a>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                      <a href="">
+                      <img src="assets/IMAGES/links_count_checker.png" alt="">
+                        <h6>Website Links Count Checker</h6>
+                      </a>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                       <a href="">
+                       <img src="assets/IMAGES/meta_tags_analyzer.png" alt="">
+                        <h6>Meta Tags Analyzer</h6>
+                       </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                        <a href="">
+                        <img src="assets/IMAGES/no_image.png" alt="">
+                        <h6>Text to Speech</h6>
+                        </a>
+                      </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                       <a href="">
+                       <img src="assets/IMAGES/online_md5_generator.png" alt="">
+                        <h6>Online Md5 Generator</h6>
+                       </a>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                     <a href="">   
+                        <img src="assets/IMAGES/password_encryption.png" alt="">
+                        <h6>Password Encryption Utility</h6>
+                    </a>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                        <a href="">
+                        <img src="assets/IMAGES/password_strength.png" alt="">
+                        <h6>Password Strength Checker</h6>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                       <a href="">
+                       <img src="assets/IMAGES/password-generator.png" alt="">
+                        <h6>Password Generator</h6>
+                       </a>
+                      </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                       <a href="">
+                       <img src="assets/IMAGES/server_status_checker.png" alt="">
+                        <h6>Server Status Checker</h6>
+                       </a>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                      <a href="">
+                      <img src="assets/IMAGES/url_encoder_decoder.png" alt="">
+                        <h6>URL Encoder / Decoder</h6>
+                      </a>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                       <a href="">
+                       <img src="assets/IMAGES/website_screenshot_generator.png" alt="">
+                        <h6>Website Screenshot Generator</h6>
+                       </a>
+                    </div>
+                    
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                        <a href="">
+                        <img src="assets/IMAGES/whois_checker.png" alt="">
+                        <h6>Whois Checker</h6>
+                        </a>
+                      </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                      <a href="">
+                      <img src="assets/IMAGES/word_counter.png" alt="">
+                        <h6>Word Counter</h6>
+                      </a>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                      <a href="">
+                      <img src="assets/IMAGES/youtube-thumbnail-downloader.png" alt="">
+                        <h6>YouTube Thumbnail Downloader</h6>
+                      </a>
+                    </div>
+                </div>
+
+            </div>
+           
+        </div>
+    </div>
+
+    <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
